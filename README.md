@@ -16,7 +16,7 @@ though you should use Binder if possible.
 The Google Colab notebooks are available under:
 - [1-Basics.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
 - [2-Autograd.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/2-Autograd.ipynb)
-- [3-Optimization.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/3-Optimisation.ipynb)
+- [3-Optimization.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/3-Optimization.ipynb)
 - [4-Modules.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/4-Modules.ipynb)
 - [5-CNN-LSTM.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/5-CNN-LSTM.ipynb)
 - [6-Transfer-Learning.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/6-Transfer-Learning.ipynb)
