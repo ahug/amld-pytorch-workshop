@@ -1,0 +1,13 @@
+name: amld-pytorch
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+- python=3.6.4
+- pytorch=1.0.0
+- numpy=1.15.3
+- torchvision-cpu=0.2.1
+- colorama=0.4.1
+- matplotlib=3.0.0
+- ipywidgets=7.4.2
