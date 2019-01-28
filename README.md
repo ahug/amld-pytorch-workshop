@@ -1,10 +1,4 @@
-## Questions & Polls
-**Link**: https://www.sli.do/ <br />
-**Code**: AMLD
-<br /><br />
-
-
-## Binder (preferred)
+## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahug/amld-pytorch-workshop/master) 
 <br />
 
