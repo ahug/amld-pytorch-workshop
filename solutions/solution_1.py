@@ -20,3 +20,22 @@ tensor.view(-1, 1).expand(-1, tensor.size(0)).cumprod(dim=1) or x.view(-1, 1).po
 
 if torch.cuda.is_available():
     x.cuda()
+
+
+
+
+
+
+np.arange(5, 20, 2)
+
+5*torch.ones(5,5) + 2*torch.eye(5)
+
+torch.arange(4, 33, 2).view(3, 5)
+
+torch.arange(2, 10, 2).view(4, 1).expand(4, 5)
+
+(X**2).sum(dim=1).sqrt()
+
+(X!=0).sum().item()
+
+X[X > int(X.float().mean())]
