@@ -80,3 +80,10 @@ The environment can similarly **deactivated** by
 ```bash
 source deactivate
 ```
+
+## Additionnal resources:
+Check out these others tutorials and courses:
+- Official tutorials : https://pytorch.org/tutorials/
+- PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
+- PyTorch for DL (notebooks): https://github.com/yandexdataschool/Practical_DL
+- PyTorch for Numpy users : https://github.com/wkentaro/pytorch-for-numpy-users
