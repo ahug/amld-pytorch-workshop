@@ -1,3 +1,5 @@
+This is a tutorial presented during a [workshop](https://www.appliedmldays.org/workshops/hands-on-pytorch-tutorial) at the Applied Machine Learning Days 2019.
+
 ## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahug/amld-pytorch-workshop/master) 
 <br />
